@@ -1,2 +1,2 @@
 # bogazci-2020
-Wordpress Theme
+Wordpress Theme by Yavuz Bogazci
